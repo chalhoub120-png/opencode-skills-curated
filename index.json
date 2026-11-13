@@ -1,0 +1,279 @@
+﻿{
+    "skills":  [
+                   {
+                       "name":  "agent-reach",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "references/capabilities.md",
+                                     "references/maintenance.md",
+                                     "references/sessions.md"
+                                 ]
+                   },
+                   {
+                       "name":  "brain-dump",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "carousels",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "assets/carousel.css",
+                                     "references/slide-layouts.md",
+                                     "scripts/generate-image.mjs",
+                                     "scripts/render.mjs"
+                                 ]
+                   },
+                   {
+                       "name":  "caveman",
+                       "version":  "1",
+                       "files":  "SKILL.md"
+                   },
+                   {
+                       "name":  "clean-architecture",
+                       "version":  "1",
+                       "files":  [
+                                     "LICENSE",
+                                     "SKILL.md"
+                                 ]
+                   },
+                   {
+                       "name":  "contract-review",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "dashboard-builder",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "decision-journal",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "deep-research",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "expense-report",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "explainer-infographic",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "graphify-me",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "references/agent-paths.md",
+                                     "references/install-commands.md",
+                                     "references/platform-checks.md",
+                                     "scripts/detect_harness.py",
+                                     "scripts/install_cli.py",
+                                     "scripts/install_skill.py",
+                                     "scripts/invoke_graphify.py",
+                                     "scripts/list_obsidian_vaults.py",
+                                     "scripts/_common.py"
+                                 ]
+                   },
+                   {
+                       "name":  "inbox-triage",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "invoice-generator",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "karpathy-guidelines",
+                       "version":  "1",
+                       "files":  "SKILL.md"
+                   },
+                   {
+                       "name":  "kent-beck-style",
+                       "version":  "1",
+                       "files":  [
+                                     "LICENSE",
+                                     "SKILL.md"
+                                 ]
+                   },
+                   {
+                       "name":  "mcp-builder",
+                       "version":  "1",
+                       "files":  [
+                                     "LICENSE.txt",
+                                     "SKILL.md",
+                                     "reference/evaluation.md",
+                                     "reference/mcp_best_practices.md",
+                                     "reference/node_mcp_server.md",
+                                     "reference/node_mcp_server_v2.md",
+                                     "reference/python_mcp_server.md",
+                                     "scripts/connections.py",
+                                     "scripts/evaluation.py",
+                                     "scripts/example_evaluation.xml",
+                                     "scripts/requirements.txt"
+                                 ]
+                   },
+                   {
+                       "name":  "meeting-prep",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "morning-briefing",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "omniroute",
+                       "version":  "1",
+                       "files":  "SKILL.md"
+                   },
+                   {
+                       "name":  "personal-crm",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "ponytail",
+                       "version":  "1",
+                       "files":  "SKILL.md"
+                   },
+                   {
+                       "name":  "skill-creator",
+                       "version":  "1",
+                       "files":  [
+                                     "LICENSE.txt",
+                                     "SKILL.md",
+                                     "agents/analyzer.md",
+                                     "agents/comparator.md",
+                                     "agents/grader.md",
+                                     "assets/eval_review.html",
+                                     "eval-viewer/generate_review.py",
+                                     "eval-viewer/viewer.html",
+                                     "references/schemas.md",
+                                     "scripts/aggregate_benchmark.py",
+                                     "scripts/generate_report.py",
+                                     "scripts/improve_description.py",
+                                     "scripts/package_skill.py",
+                                     "scripts/quick_validate.py",
+                                     "scripts/run_eval.py",
+                                     "scripts/run_loop.py",
+                                     "scripts/utils.py",
+                                     "scripts/__init__.py"
+                                 ]
+                   },
+                   {
+                       "name":  "slide-deck",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "step-back",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   },
+                   {
+                       "name":  "superpowers",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "references/antigravity-tools.md",
+                                     "references/claude-code-tools.md",
+                                     "references/codex-tools.md",
+                                     "references/gemini-tools.md",
+                                     "references/hermes-tools.md",
+                                     "references/muse-tools.md",
+                                     "references/pi-tools.md"
+                                 ]
+                   },
+                   {
+                       "name":  "vercel-composition-patterns",
+                       "version":  "1",
+                       "files":  "SKILL.md"
+                   },
+                   {
+                       "name":  "vercel-react-best-practices",
+                       "version":  "1",
+                       "files":  "SKILL.md"
+                   },
+                   {
+                       "name":  "vercel-web-design-guidelines",
+                       "version":  "1",
+                       "files":  "SKILL.md"
+                   },
+                   {
+                       "name":  "webapp-testing",
+                       "version":  "1",
+                       "files":  [
+                                     "LICENSE.txt",
+                                     "SKILL.md",
+                                     "examples/console_logging.py",
+                                     "examples/element_discovery.py",
+                                     "examples/static_html_automation.py",
+                                     "scripts/with_server.py"
+                                 ]
+                   },
+                   {
+                       "name":  "workflow-visualizer",
+                       "version":  "1",
+                       "files":  [
+                                     "SKILL.md",
+                                     "evals/evals.json"
+                                 ]
+                   }
+               ]
+}

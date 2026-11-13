@@ -1,0 +1,19 @@
+# Generated artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+node_modules/
+.venv/
+*.egg-info/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets/
+
+# OS
+.DS_Store
+Thumbs.db
